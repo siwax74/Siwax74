@@ -1,3 +1,4 @@
+# Développeur Français <img src="https://github.com/user-attachments/assets/a9ee410a-339f-42b5-91ae-79c948c52fc0" alt="image" width="20" height="20"> 
 # 👋 Bonjour ! Bienvenue sur mon profil GitHub !
 
 🚧 **Travail en cours** — *Silence, ça grandit...* 🌱✨
@@ -6,16 +7,6 @@ Je suis en train de créer des trucs sympas et d'apprendre en cours de route.
 Restez à l'écoute pour les mises à jour ! 🚀
 
 *Merci de votre visite !* 😎👍
-
-************************************************************************************************************
-# 👋 Hello! Welcome to my GitHub profile!
-
-🚧 **Work in Progress** — *Be quiet, it's growing...* 🌱✨
-
-I’m on a journey of building cool stuff and learning along the way.  
-Stay tuned for updates! 🚀
-
-*Thanks for stopping by!* 😎👍
 
 ************************************************************************************************************
 # 👋 Hello! Welcome to my GitHub profile!
@@ -46,4 +37,14 @@ Stay tuned for more updates and cool stuff! 🚀
 敬请期待更多更新！ 🚀
 
 *感谢您的访问！* 😎👍
+
+************************************************************************************************************
+# 👋 Привет! Добро пожаловать на мой профиль GitHub!
+
+🚧 **Работа в процессе** — *Тихо, оно растет...* 🌱✨
+
+Я на пути к созданию классных вещей и обучению по ходу дела.  
+Следите за обновлениями! 🚀
+
+*Спасибо, что заглянули!* 😎👍
 
