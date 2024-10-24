@@ -1,7 +1,7 @@
 # Développeur Français <img src="https://github.com/user-attachments/assets/a9ee410a-339f-42b5-91ae-79c948c52fc0" alt="image" width="20" height="20"> 
 # 👋 Bonjour ! Bienvenue sur mon profil GitHub !
 
-🚧 **Travail en cours** — *Silence, ça grandit...* 🌱✨
+🚧 **Travail en cours** — *Silence, ça pousse...* 🌱✨
 
 Je suis en train de créer des trucs sympas et d'apprendre en cours de route.
 Restez à l'écoute pour les mises à jour ! 🚀
