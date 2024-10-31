@@ -1,27 +1,41 @@
-# Développeur Français <img src="https://github.com/user-attachments/assets/a9ee410a-339f-42b5-91ae-79c948c52fc0" alt="image" width="20" height="20"> 
-# 👋 Bonjour ! Bienvenue sur mon profil GitHub !
+# <div align="center">👨‍💻 Développeur Français 🇫🇷</div>
+<div align="center"><img src="https://github.com/user-attachments/assets/a9ee410a-339f-42b5-91ae-79c948c52fc0" alt="image" width="20" height="20"></div>
 
-🚧 **Travail en cours** — *Silence, ça pousse...* 🌱✨
+---
 
-Je suis en train de créer des trucs sympas et d'apprendre en cours de route.
-Restez à l'écoute pour les mises à jour ! 🚀
+## 👋 Bienvenue sur mon profil GitHub !
 
-*Merci de votre visite !* 😎👍
+> **🚧 Travail en cours** — *Silence, ça pousse...* 🌱✨  
+> Je suis en train de créer des projets sympas et d'apprendre en cours de route.  
+> Restez à l'écoute pour les mises à jour ! 🚀  
 
-<div align="center"><h1 style="text-decoration: none;">Statistiques de mes Repositories</h1>
+**Merci de votre visite !** 😎👍
+
+---
+
+<div align="center">
+    <h2>✨ Statistiques de mes Repositories ✨</h2>
 
 ![Mes dépôts](https://github-readme-stats.vercel.app/api/top-langs/?username=Siwax74&layout=compact&theme=radical)
 
-Vous pouvez les consulter en cliquant ci-dessous !
+<br>
 
-<span>👇</span>
+👇 **Découvrez mes repositories** 👇
 
 <a href="https://github.com/siwax74?tab=repositories">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlwMWtzNWVxZjZ3ZW03cmR2aHZiMjI3aXJvcWVmMTFqMXF1bmszZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4tkXKMHSJaeTpx4a6/200.webp" alt="GIF animé" width="150"/>
 </a>
 
-
 </div>
+
+---
+
+### 🔗 Autres Liens Utiles
+
+- 💼 LinkedIn : 🕰
+- 📫 Contactez-moi :🕰
+
+---
 
 ************************************************************************************************************
 # 👋 Hello! Welcome to my GitHub profile!
