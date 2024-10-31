@@ -10,11 +10,9 @@ Restez à l'écoute pour les mises à jour ! 🚀
 
 <div align="center"><h1 style="text-decoration: none;">Statistiques de mes Repositories</h1>
 
-Voici quelques statistiques sur mes dépôts :
-
 ![Mes dépôts](https://github-readme-stats.vercel.app/api/top-langs/?username=Siwax74&layout=compact&theme=radical)
 
-Vous pouvez consulter tous mes REPOSITORIES en cliquant ci-dessous !
+Vous pouvez les consulter en cliquant ci-dessous !
 
 <span>👇</span>
 
