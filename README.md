@@ -8,6 +8,22 @@ Restez à l'écoute pour les mises à jour ! 🚀
 
 *Merci de votre visite !* 😎👍
 
+<div align="center"><h1 style="text-decoration: none;">Statistiques de mes Repositories</h1>
+
+Voici quelques statistiques sur mes dépôts :
+
+![Mes dépôts](https://github-readme-stats.vercel.app/api/top-langs/?username=Siwax74&layout=compact&theme=radical)
+
+Vous pouvez consulter tous mes REPOSITORIES en cliquant ci-dessous !
+
+<span>👇</span>
+
+<a href="https://github.com/Siwax74" target="_blank">
+    <img src="https://media.giphy.com/media/vKL1rJ8mdRlR5nhwH5/giphy.gif" alt="GIF animé" width="150"/>
+</a>
+
+</div>
+
 ************************************************************************************************************
 # 👋 Hello! Welcome to my GitHub profile!
 
