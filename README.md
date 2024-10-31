@@ -16,9 +16,10 @@ Vous pouvez les consulter en cliquant ci-dessous !
 
 <span>👇</span>
 
-<a href="https://github.com/siwax74?tab=repositories" target="_blank">
-    <img src="https://media.giphy.com/media/vKL1rJ8mdRlR5nhwH5/giphy.gif" alt="GIF animé" width="150"/>
+<a href="https://github.com/siwax74?tab=repositories">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlwMWtzNWVxZjZ3ZW03cmR2aHZiMjI3aXJvcWVmMTFqMXF1bmszZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4tkXKMHSJaeTpx4a6/200.webp" alt="GIF animé" width="150"/>
 </a>
+
 
 </div>
 
