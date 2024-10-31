@@ -5,6 +5,10 @@
 
 ## 👋 Bienvenue sur mon profil GitHub !
 
+<h6 align="center">
+  <img src="https://count.getloli.com/@siwax74?theme=nixietube" alt="Visiteurs" />
+</h6 <br>
+
 > **🚧 Travail en cours** — *Silence, ça pousse...* 🌱✨  
 > Je suis en train de créer des projets sympas et d'apprendre en cours de route.  
 > Restez à l'écoute pour les mises à jour ! 🚀  
