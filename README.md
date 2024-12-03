@@ -1,5 +1,6 @@
-# <div align="center">👨‍💻 Développeur PYTHON 🐍</div>
-<div align="center"><img src="https://github.com/user-attachments/assets/a9ee410a-339f-42b5-91ae-79c948c52fc0" alt="image" width="20" height="20"></div>
+<div align="center">👨‍💻 Développeur PYTHON (https://dgey.fr) <img src="https://github.com/user-attachments/assets/a9ee410a-339f-42b5-91ae-79c948c52fc0" alt="image" width="20" height="20"></div>
+
+<div align="center"></div>
 
 ---
 
