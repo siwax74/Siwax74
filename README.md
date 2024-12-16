@@ -10,7 +10,9 @@
 <!-- ![Hits](https://hitcounter.dev/badge?user=Siwax74) -->
 
 > **🚧 Travail en cours** — *Silence, ça pousse...* 🌱✨  
-> Je suis en train de créer des projets sympas et d'apprendre en cours de route.  
+> Je suis en train de créer des projets sympas et d'apprendre en cours de route.
+----> https://github.com/siwax74/P9_DJANGO_LITREVIEW/tree/dev
+
 > Restez à l'écoute pour les mises à jour ! 🚀  
 
 **Merci de votre visite !** 😎👍
