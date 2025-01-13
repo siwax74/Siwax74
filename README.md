@@ -11,8 +11,9 @@
 
 > **🚧 Travail en cours** — *Silence, ça pousse...* 🌱✨  
 > Je suis en train de créer des projets sympas et d'apprendre en cours de route.
-----> https://github.com/siwax74/P9_DJANGO_LITREVIEW/tree/dev
-
+1. [**dev branch**]➡️(https://github.com/siwax74/P10_DJANGO-REST/tree/dev)  
+   Explorez la branche de développement pour les dernières mises à jour et améliorations.  
+   🔄 Suivez les changements en temps réel dans la branche `dev` et contribuez aux améliorations.
 > Restez à l'écoute pour les mises à jour ! 🚀  
 
 **Merci de votre visite !** 😎👍
