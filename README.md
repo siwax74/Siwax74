@@ -39,7 +39,7 @@
 
 ### 🔗 Autres Liens Utiles
 
-- 💼 LinkedIn : 🕰
+- 💼 LinkedIn : https://fr.linkedin.com/in/geydamien
 - 📫 Contactez-moi : siwax74@outlook.fr
 
 ---
