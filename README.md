@@ -10,7 +10,7 @@
 <!-- ![Hits](https://hitcounter.dev/badge?user=Siwax74) -->
 
 > **🚧 Travail en cours** — *Silence, ça pousse...* 🌱✨  
-> Je suis en train de créer des projets sympas et d'apprendre en cours de route.
+> Je suis en train de créer des projets sympas.
 1. [**dev branch**]➡️(https://github.com/siwax74/P10_DJANGO-REST/tree/dev)  
    Explorez la branche de développement pour les dernières mises à jour et améliorations.  
    🔄 Suivez les changements en temps réel dans la branche `dev` et contribuez aux améliorations.
